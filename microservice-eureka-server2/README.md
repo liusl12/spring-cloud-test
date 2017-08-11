@@ -1,1 +1,1 @@
-EurekaServer2
+EurekaServer
