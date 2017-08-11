@@ -10,7 +10,7 @@ eureka:
     serviceUrl:
      defaultZone: http://localhost:1111/eureka/
     fetch-registry: false
-    register-with-eureka: false
+    register-with-eureka: true      #true表示启动注册操作
 
 
 
